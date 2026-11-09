@@ -1,4 +1,4 @@
-# The Color Vision
+# Color Vision Second Deliverable
 
 ## Description
 
@@ -10,7 +10,7 @@ As a result it will provde the level of concern in terms of accessibility as wel
 providing a suggestion as to what one can do to distinguish the two easier.
 
 
-**Version 2 updates**
+**Version 2.0 updates**
 
 The program continues to use RGB values to compare the brightness 
 At the same time also compares the values amongst the two colors to 
@@ -18,6 +18,7 @@ be more accessible to those with poor color vision.
 The updated program provides more useful recommendations for combinations 
 that may be a little more difficult to distinguish in regards to comparing the two colors.
 The comparison results will then be put into a text file so that the user could review them afterwards.
+The program also prevents users from inputting invalid RGB values from being accepted as an input.
 
 ## Developer
 
